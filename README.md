@@ -43,7 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LuanJsv/LuanJsv/output/snake.svg" alt="Snake animation" />
 
 ###
 
