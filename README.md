@@ -1,10 +1,15 @@
-<br clear="both">
-
 <h2 align="left">Memória atualizada<br>Here’s a suggestion for your GitHub introduction in English:<br><br>Hi, I'm Seven! 👋<br>I'm a 23-year-old front-end enthusiast with a passion for coding and creating interactive web experiences. I’m currently focused on learning React.js, and I enjoy building projects that challenge my skills and creativity. I'm always eager to explore new technologies and improve my development abilities.<br><br>Feel free to check out my projects and connect with me! Let's build something amazing together!</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.makeagif.com/media/8-08-2023/bGcYTz.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuanJsv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuanJsv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://camo.githubusercontent.com/7dc7d6e5887e4ee36371516a564d6914f8844508755e7f4f703bc84169434447/68747470733a2f2f692e6d616b65616769662e636f6d2f6d656469612f382d30382d323032332f62476359547a2e676966"  />
 
 ###
 
@@ -32,6 +37,18 @@
   <a href="https://www.linkedin.com/in/luan-dantas-553407272/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LuanJsv/LuanJsv/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/LuanJsv/count.svg?"  />
 </div>
 
 ###
