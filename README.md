@@ -1,4 +1,4 @@
-<h2 align="left">Memória atualizada<br>Here’s a suggestion for your GitHub introduction in English:<br><br>Hi, I'm Seven! 👋<br>I'm a 23-year-old front-end enthusiast with a passion for coding and creating interactive web experiences. I’m currently focused on learning React.js, and I enjoy building projects that challenge my skills and creativity. I'm always eager to explore new technologies and improve my development abilities.<br><br>Feel free to check out my projects and connect with me! Let's build something amazing together!</h2>
+<h2 align="left">Here’s a suggestion for your GitHub introduction in English:<br><br>Hi, I'm Seven! 👋<br>I'm a 23-year-old front-end enthusiast with a passion for coding and creating interactive web experiences. I’m currently focused on learning React.js, and I enjoy building projects that challenge my skills and creativity. I'm always eager to explore new technologies and improve my development abilities.<br><br>Feel free to check out my projects and connect with me! Let's build something amazing together!</h2>
 
 ###
 
